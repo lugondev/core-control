@@ -1,0 +1,4 @@
+desc='Stealth Node for Ark-powered blockchains'
+npmrepo='@alessiodf'
+gitrepo='https://github.com/alessiodf'
+options[0]='enabled: true'
